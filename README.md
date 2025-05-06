@@ -37,12 +37,31 @@ University students often face challenges in discovering clubs, joining processe
 
 ---
 
-## ⚙️ **Tech Stack**
+## ⚙️ **Technical Highlights**
 
-- **C++**
-- **Qt Framework (GUI)**
-- **SQLite (Database)**
+✔️ **Built using C++ with Qt Framework for GUI and SQLite for database management**
 
+✔️ **Followed Object-Oriented Programming (OOP) principles like:**
+- **Encapsulation & Abstraction:** Clean data models for `User`, `Club`, `Event`, and `Notification`
+- **Separation of Concerns:** Decoupled data handling and UI logic for maintainability
+- **Reusability:** Shared classes and functions across **Admin**, **Leader**, and **Member** interfaces
+- **Maintainability:** Modular design with centralized core logic and scalable UI components
+
+✔️ **Focused on Database Integrity and Optimization:**
+- Ensured consistent updates when members leave clubs or events
+- Handled proper deletion cascades for clubs, events, members, and related data
+- Transaction management for secure and reliable database operations
+
+✔️ **User Experience Enhancements:**
+- Clear error handling and validation during login and registration
+- Profile photo uploads with default images
+- Custom homepages and navigation flows based on user roles
+
+✔️ **Gamification Elements:**
+- Points awarded for event participation
+- Dynamic leaderboards with dense ranking functions for real-time competition
+- Motivation-driven design to boost participation and foster community spirit
+  
 ---
 
 ## 📥 **Installation & How to Run**
