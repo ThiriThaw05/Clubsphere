@@ -1,4 +1,4 @@
-# 📚 **ClubSphere**
+#  **ClubSphere**
 
 A **centralized student club management platform** designed to enhance communication, event organization, and engagement within university clubs.
 
@@ -6,38 +6,38 @@ Built using **C++ (Qt Framework)** and **SQLite**, ClubSphere streamlines club a
 
 ---
 
-## 📌 **Overview**
+##  **Overview**
 
 University students often face challenges in discovering clubs, joining processes, and staying updated on events. Meanwhile, club leaders struggle with managing members and events efficiently. **ClubSphere addresses these challenges by providing a centralized, user-friendly platform with real-time updates, role-specific dashboards, and leaderboards to foster a dynamic student community.**
 
 ---
 
-## 🎨 **Key Features**
+##  **Key Features**
 
-### 👩‍💻 **Admin Dashboard**
+###  **Admin Dashboard**
 - **Manage registered users, clubs, and events**
 - **View leaderboards for top clubs and users**
 - **Approve or remove club data**
 
-### 👑 **Leader Dashboard**
+###  **Leader Dashboard**
 - **Create and manage club-specific events**
 - **Track attendance through event codes**
 - **In-app group chat and notification system**
 - **Leaderboards for club-specific and university-wide rankings**
 
-### 🧑‍🎓 **Member Experience**
+###  **Member Experience**
 - **Explore, join, and participate in clubs**
 - **Earn points for event participation**
 - **Access personal profiles with points, ranks, and club activity**
 - **View dynamic leaderboards and receive club notifications**
 
-### 🎮 **Gamification & Ranking System**
+###  **Gamification & Ranking System**
 - **Points-based system to reward event participation**
 - **Leaderboards ranking members, clubs, and leaders to encourage healthy competition**
 
 ---
 
-## ⚙️ **Technical Highlights**
+##  **Technical Highlights**
 
 ✔️ **Built using C++ with Qt Framework for GUI and SQLite for database management**
 
@@ -64,13 +64,13 @@ University students often face challenges in discovering clubs, joining processe
   
 ---
 
-## 📥 **Installation & How to Run**
+##  **Installation & How to Run**
 
-### 🔧 **Prerequisites**
+###  **Prerequisites**
 - **C++ compiler** (GCC, MinGW, or Visual Studio)
 - **Qt Creator** (recommended) or Qt libraries installed on your system
 
-### 📦 **Setup Instructions**
+###  **Setup Instructions**
 
 1. **Clone the Repository**
    ```bash
@@ -88,7 +88,7 @@ University students often face challenges in discovering clubs, joining processe
   - The SQLite database file will be auto-created upon first launch
   - Default admin and sample data can be added via the admin panel
 ___
-### 📂 **Project Structure**
+###  **Project Structure**
 ```bash
 Clubsphere/
 ├── assets/               # Profile pictures and images
